@@ -1,0 +1,4 @@
+rootProject.name = 'tron-feeder'
+include 'priceserver'
+include 'feeder'
+
